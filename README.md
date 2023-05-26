@@ -1,16 +1,46 @@
-### Hi there 👋
+# 👋 Hello there, I'm Emanuel! 
 
-<!--
-**Emanuel-Manrique/Emanuel-Manrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 22 year old passionate Software Developer with 3 years of experience in coding. I love solving problems, learning new technologies, and making things work. My preferred languages and tools include JavaScript, TypeScript, Python, SQL, MongoDB, React, Next.js, Node.js, and Django.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies and Tools I Use 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, TypeScript, Python, SQL
+- **Database Management Systems:** MongoDB, SQL
+- **Frontend/Backend Frameworks:** React, Next.js, Node.js, Django
+
+## 🎓 Education
+
+- **Associate in Data Science** (Current Study)  
+Studying a comprehensive curriculum focused on data collection, manipulation, analysis, interpretation and visualization.
+
+- **English Teacher**  
+Possessing strong communication and presentation skills that have been honed through teaching English, enhancing not just my proficiency in the language but also the ability to clearly and effectively articulate complex programming concepts.
+
+- **React Advanced Examination, OpenBootcamp**  
+Successfully passed a rigorous assessment, demonstrating a solid understanding of building scalable and maintainable applications using React.
+
+- **Oracle One Frontend Education**  
+Completed Oracle's comprehensive front-end development program, gaining deep understanding and practical skills in creating user-friendly interfaces.
+
+- **Backend and Frontend Studies, Universidad Nacional de Buenos Aires**  
+Completed a rigorous program focused on both frontend and backend development, gaining a firm understanding of full-stack development and the software development lifecycle.
+
+## 💼 Work Experience
+
+For my professional experiences, please visit my [LinkedIn](https://www.linkedin.com/in/emanuel-manrique-dev/).
+
+## 📫 How to reach me 
+
+- **LinkedIn**: [Emanuel Manrique](https://www.linkedin.com/in/emanuel-manrique-dev/)
+- **Email**: [manriqueemanuel@gmail.com](mailto:manriqueemanuel@gmail.com)
+
+## 📊 GitHub Stats
+
+[![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuel-manrique)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+Feel free to explore my projects and drop a star if you find something interesting 🎈.
+
+ 
+
