@@ -10,8 +10,8 @@ I'm a 22 year old passionate Software Developer with 3 years of experience in co
 
 ## 🎓 Education
 
-- **Associate in Data Science** (Current Study)  
-Studying a comprehensive curriculum focused on data collection, manipulation, analysis, interpretation and visualization.
+- **Associate in Data Science and Artificial Intelligence** (Currently Pursuing)  
+Immersed in an intensive program delving deep into the realms of Data Science and Artificial Intelligence. The curriculum covers a broad scope of topics from systematic data collection, adept data manipulation, insightful analysis, and compelling interpretation, to the visualization of complex data structures. This holistic program empowers me to harness the power of data-driven insights, alongside leveraging AI tools, to solve intricate problems and make informed decisions.
 
 - **English Teacher**  
 Possessing strong communication and presentation skills that have been honed through teaching English, enhancing not just my proficiency in the language but also the ability to clearly and effectively articulate complex programming concepts.
