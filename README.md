@@ -36,7 +36,7 @@ For my professional experiences, please visit my [LinkedIn](https://www.linkedin
 
 ## 📊 GitHub Stats
 
-[![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuel-manrique)](https://github.com/anuraghazra/github-readme-stats)
+[![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuel-manrique)](https://github.com/emanuel-manrique/github-readme-stats)
 
 
 
