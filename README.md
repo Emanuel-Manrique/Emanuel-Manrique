@@ -34,14 +34,10 @@ For my professional experiences, please visit my [LinkedIn](https://www.linkedin
 - **LinkedIn**: [Emanuel Manrique](https://www.linkedin.com/in/emanuel-manrique-dev/)
 - **Email**: [manriqueemanuel@gmail.com](mailto:manriqueemanuel@gmail.com)
 
-## Top 10% CodeWars
+## Top 9% CodeWars
 
-- **CodeWars**: [Emanuel Manrique](https://www.codewars.com/users/Lu-deng) 
+- **CodeWars**: [Emanuel Manrique](https://www.codewars.com/users/ManriqueDev) 
 - 
-## 📊 GitHub Stats
-
-[![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuel-manrique&count_private=true)](https://github.com/emanuel-manrique/github-readme-stats)
-
 
 
 Feel free to explore my projects and drop a star if you find something interesting 🎈.
