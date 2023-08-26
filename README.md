@@ -4,7 +4,7 @@ I'm a 22 year old passionate Software Developer with 3 years of experience in co
 
 ## 🛠️ Technologies and Tools I Use 
 
-- **Languages:** JavaScript, TypeScript, Python, SQL
+- **Languages:** JavaScript, TypeScript, Python, SQL, C#
 - **Database Management Systems:** MongoDB, SQL
 - **Frontend/Backend Frameworks:** React, Next.js, Node.js, Django
 
