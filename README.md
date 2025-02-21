@@ -7,7 +7,7 @@ I'm a 23-year-old Software Developer with three years of professional experience
 - **Languages:** JavaScript, TypeScript, Python, SQL, C#
 - **Database Management Systems:** MongoDB, SQL, PostgreSQL, Supabase
 - **Frontend/Backend Frameworks:** React, Next.js, Node.js, Nest.js
-- **Cloud**: AWS (AWS Architect - 812/1000
+- **Cloud**: AWS (AWS Architect - 812/1000)
 
 ## 💼 Work Experience
 
